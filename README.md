@@ -6,6 +6,7 @@ An independent Double Materiality Assessment (DMA) of Tata Power based on public
 
 > **Disclaimer:** This is an independent analytical study based on publicly available information. It is not affiliated with, endorsed by, or reviewed by Tata Power.
 
+LinkedIn: [Anuj Tripathi](https://www.linkedin.com/in/anuj-tripathi-4ab7472b3/)
 ---
 
 ## Project Objective
@@ -123,3 +124,5 @@ Tata-Power-Double-Materiality-Assessment/
 │
 └── Analysis/
     └── Tata-Power-DMA-Analysis.xlsx
+
+
