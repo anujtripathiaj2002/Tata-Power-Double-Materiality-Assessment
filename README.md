@@ -11,6 +11,18 @@ An independent Double Materiality Assessment (DMA) of Tata Power based on public
 LinkedIn: [Anuj Tripathi](https://www.linkedin.com/in/anuj-tripathi-4ab7472b3/)
 ---
 
+## Key Results
+
+| Metric | Result |
+|---|---:|
+| ESG Topics Assessed | 30 |
+| Double Material Topics | 22 |
+| Alignment Index | 85% |
+| Exact Match Rate | 54% |
+| Top-Band Recall | 60% |
+| Top-Band Precision | 60% |
+
+
 ## Project Objective
 
 The objective of this project was to independently assess Tata Power's ESG materiality landscape and benchmark the resulting assessment against Tata Power's publicly disclosed materiality assessment.
