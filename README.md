@@ -1,5 +1,7 @@
 # Tata Power - Double Materiality Assessment
 
+![Tata Power Double Materiality Assessment](Tata-Power-DMA-Project-Cover.png)
+
 ## Independent ESG Analytical Study | FY2025–26
 
 An independent Double Materiality Assessment (DMA) of Tata Power based on publicly available information, designed to assess the materiality of key Environmental, Social and Governance (ESG) topics from both impact and financial perspectives.
